@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devlog 2 : Rewrite"
-date:   2026-03-13 14:00:00 -0800
+date:   2026-03-13 14:30:00 -0800
 categories: devlog update
 ---
 
