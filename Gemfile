@@ -8,6 +8,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.4"
+# The Ruby standard library 'csv' is now shipped as a default gem in Ruby 3.4+.
+# Bundler isolates only gems listed in Gemfile, so we need to declare it explicitly.
+gem "csv"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 gem "minimal-mistakes-jekyll"

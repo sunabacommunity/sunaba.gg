@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Devlog 2 : Rewrite"
+date:   2026-03-13 14:00:00 -0800
+categories: devlog update
+---
+
+Hello, it's been a while, I spent the past year rewiting the engine, I've replaced Jint with Lua, and switched the scripting language from JavaScript to Haxe. The engine now supports importing 3D models, loading Quake '.map' files, and creating custom 3D characters.
+
+![](/assets/images/Screenshot_20260313_124006.png)
+![](/assets/images/Screenshot_20260313_124112.png)
+![](/assets/images/Screenshot_20260313_124133.png)
+![](/assets/images/Screenshot_20260313_125449.png)
